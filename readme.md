@@ -1,5 +1,11 @@
 # Interim kultur
 
+## Roadmap
+* Write the application ( [Vinnova](http://vinnova.se) ) february 2013
+
+## Overview (in-progress)
+Some bullet points from last meeting
+
 * Who we are what we do section too
 * Set of tools
 	* Docs for u to download?
@@ -7,9 +13,8 @@
     
 ## Users
 *  Internal tools
-	* Templates for budjet
+	* Templates for budget
 	* Document chunk exchange etc...  
             
 ## Admins
 * business flow/ book keeping
-	
