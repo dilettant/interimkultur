@@ -18,3 +18,7 @@ Some bullet points from last meeting
             
 ## Admins
 * business flow/ book keeping
+
+## Trying out if I can edit this document through prose
+* seems to be working fine actually
+* yep, sure is working
