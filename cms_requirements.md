@@ -1,22 +1,20 @@
 # CMS REQUIREMENTS
 
-## DEV
+## DEV (code)
 - Language
-	- Frameworks
+	- Frameworks / Libraries
 	- Community
 	- Widespread
 	- Security
-	- Libraries
-- Security (https & coding (frameworks, tools, writing))
-- "plugins"
-- API?
+- "plugins" system
+- Longterm
 
-## ADMIN
-- "plugins" - install/activate/extend functionality
+## ADMIN (no code)
+- "plugins" - easy install/activate/extend functionality
 - User-groups, permissions
 
-## USER
-- Accessibility ( multi-platform )
+## USER (no code)
+- Accessibility ( multi-platform/device )
 - Usability
 - UX/interface/interaction
 - Security (https)
